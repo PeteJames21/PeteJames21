@@ -2,15 +2,10 @@
 <h3 align="center">A Passionate Data Scientist and Software Engineer</h3>
 
 - 🔭 I’m currently working on a **fullstack AirBnB clone website**
-
 - 🌱 I’m currently learning **Fullstack Web Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/PeteJames21](https://github.com/PeteJames21)
-
 - 💬 Ask me about **Data Science, Python**
-
 - 📫 How to reach me **peterndungu101@gmail.com**
-
 - ⚡ Fun fact **I am an Analytical Chemist**
 
 <h3 align="left">Connect with me:</h3>
