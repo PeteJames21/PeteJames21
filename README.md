@@ -8,7 +8,6 @@
 - 📫 How to reach me **peterndungu101@gmail.com**
 - ⚡ Fun fact: **I am an Analytical Chemist**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
