@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Ndung'u</h1>
 <h3 align="center">A Passionate Data Scientist and Software Engineer</h3>
-
+<img align="right" alt="Github Mascot icon" width="400" src="https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a">
 - 🔭 I’m currently working on **a fullstack AirBnB clone website**
 
 - 🌱 I’m currently learning **Fullstack Web Development**
