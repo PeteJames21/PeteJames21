@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Ndung'u</h1>
 <h3 align="center">A Passionate Data Scientist and Software Engineer</h3>
 
-- 🔭 I’m currently working on a **fullstack AirBnB clone website**
+- 🔭 I’m currently working on a **fullstack personal finance tracking web app**
 - 🌱 I’m currently learning **Fullstack Web Development**
 - 👨‍💻 All of my projects are available at [https://github.com/PeteJames21](https://github.com/PeteJames21)
 - 💬 Ask me about **Data Science, Python**
