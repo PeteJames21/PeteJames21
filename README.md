@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Ndung'u</h1>
-<h3 align="center">A Passionate Data Scientist and Software Engineer</h3>
+<h3 align="center">A Data Scientist and Software Engineer</h3>
 
 - 🔭 I’m currently working on a **fullstack personal finance tracking web app**
 - 🌱 I’m currently learning **Fullstack Web Development**
