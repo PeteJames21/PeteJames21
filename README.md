@@ -2,9 +2,9 @@
 <h3 align="center">A Data Scientist and Software Engineer</h3>
 
 - 🔭 I’m currently working on a **fullstack personal finance tracking web app**
-- 🌱 I’m currently learning **Fullstack Web Development**
+- 🌱 I’m currently learning **Fullstack Web Development**, specializing in backend development
 - 👨‍💻 All of my projects are available at [https://github.com/PeteJames21](https://github.com/PeteJames21)
-- 💬 Ask me about **Data Science, Python**
+- 💬 Ask me about **Data Science, Python, Linux**
 - 📫 How to reach me **peterndungu101@gmail.com**
 - ⚡ Fun fact: **I am an Analytical Chemist**
 <h3>Connect with me:</h3>
